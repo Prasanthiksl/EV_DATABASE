@@ -97,7 +97,7 @@ Key visualizations:
 
 ---
 
-## 📈 Learning Outcomes
+## Learning Outcomes
 
 * Handling messy real-world datasets
 * Data cleaning and preprocessing techniques
